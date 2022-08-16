@@ -56,5 +56,16 @@ int main(void)
     return 0;
 }
 
-7.
+7. 
+a. 
+Hi! Hi! Hi! Bye! Bye! Bye! Bye! Bye! 
+b. 
+ACGM
 
+8.  
+a. Go west, youn 
+b. Hp!xftu-!zpvo
+c. Go west, young
+d. $o west, youn
+
+9.
