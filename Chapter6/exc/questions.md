@@ -69,3 +69,33 @@ c. Go west, young
 d. $o west, youn
 
 9.
+a. mint
+b. 10
+c. double
+d. ii.
+
+10. 
+there in for loop condition wrong limits created with "<=" rather then "<"
+
+11. 
+It should declare the return type as long , and it should have a return statement that
+returns a long value.
+
+12. 
+long square(int num)
+{
+return ((long) num) * num;
+}
+
+13. 
+1: Hi! 
+k = 1 
+k is 1 in the loop 
+Now k is 3 
+k = 3 
+k is 3 in the loop
+Now k is 5 
+k = 5 
+k is 5 in the loop
+Now k is 7 
+k = 7 
