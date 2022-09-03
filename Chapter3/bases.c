@@ -2,12 +2,12 @@
 #include <stdio.h>
 int main(void)
 {
-int x = 100;
-printf("dec = %d; octal = %o; hex = %x\n", x, x, x);
-printf("dec = %d; octal = %#o; hex = %#x\n", x, x, x);
+   int x = 100;
+   printf("dec = %d; octal = %o; hex = %x\n", x, x, x);
+   printf("dec = %d; octal = %#o; hex = %#x\n", x, x, x);
 
-char r = '\r';
-printf("%d %#o %#x\n",r,r,r);
+   char r = '\r';
+   printf("%d %#o %#x\n",r,r,r);
 
-return 0;
+   return 0;
 }
