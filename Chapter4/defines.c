@@ -17,7 +17,7 @@ int main(void)
     printf("float epsilon = %e\n", FLT_EPSILON);
 
     #define SYMB_NUM 15
-    char a[SYMB_NUM] = "Hellow it's me!";
+    char a[SYMB_NUM] = " Hellow it's me!";
     char symb_num[4];
     sprintf(symb_num,"%d",SYMB_NUM);
     char conv_spec[8] = "";
