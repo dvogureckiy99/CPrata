@@ -4,7 +4,7 @@ int main(void)
 {
     double num[10];
 
-    scanf("%f",&num);
+    scanf(" %f",&num);
     for(int i = 0; i < 10; i++)
         printf("%f ",num[i]);
     
